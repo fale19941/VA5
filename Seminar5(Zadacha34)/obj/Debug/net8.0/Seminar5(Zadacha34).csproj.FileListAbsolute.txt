@@ -1,0 +1,15 @@
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\bin\Debug\net8.0\Seminar5(Zadacha34).exe
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\bin\Debug\net8.0\Seminar5(Zadacha34).deps.json
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\bin\Debug\net8.0\Seminar5(Zadacha34).runtimeconfig.json
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\bin\Debug\net8.0\Seminar5(Zadacha34).dll
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\bin\Debug\net8.0\Seminar5(Zadacha34).pdb
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).csproj.AssemblyReference.cache
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).GeneratedMSBuildEditorConfig.editorconfig
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).AssemblyInfoInputs.cache
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).AssemblyInfo.cs
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).csproj.CoreCompileInputs.cache
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).dll
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\refint\Seminar5(Zadacha34).dll
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).pdb
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\Seminar5(Zadacha34).genruntimeconfig.cache
+D:\Papochka Zootopia\Donald (and Git)\Donald 8(MK)\Seminar5(Zadacha34)\obj\Debug\net8.0\ref\Seminar5(Zadacha34).dll
